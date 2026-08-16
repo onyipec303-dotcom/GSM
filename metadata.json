@@ -1,0 +1,6 @@
+{
+  "name": "Rechargeable GSM Landline Phone Sales Page",
+  "description": "High-converting sales page for Rechargeable GSM Landline Phone with instant WhatsApp order redirect, lead ordering form, and Google Sheets setup instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
